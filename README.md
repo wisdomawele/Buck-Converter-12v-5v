@@ -72,7 +72,7 @@ The simulation and the hand calculation agree within about 2 mV.
 | Load | Output power | Input power | Efficiency |
 |---|---|---|---|
 | 0.5 A (10 ohm) | 2.54 W | 2.77 W | 91.7% |
-| 1.0 A (5 ohm) | 5.04 W | 5.51 W | 91.6% |
+| 1.0 A (5 ohm) | 5.043 W | 5.507 W | 91.6% |
 
 ## Limits of This Design
 
